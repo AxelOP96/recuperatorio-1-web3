@@ -1,0 +1,48 @@
+﻿@model IEnumerable<RecuperatorioRegistroReservas.Web.Models.ReservaViewModel>
+@{
+}
+<h1>Listado</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cliente
+            </th>
+            <th>
+                Pasajeros
+            </th>
+            <th>
+                Inicio
+            </th>
+            <th>
+                Fin
+            </th>
+            <th>
+                Costo Total
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CantidadPasajeros)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaInicio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaFin)
+                </td>
+                <td>
+                    $ @Html.DisplayFor(modelItem => item.CostoTotal)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

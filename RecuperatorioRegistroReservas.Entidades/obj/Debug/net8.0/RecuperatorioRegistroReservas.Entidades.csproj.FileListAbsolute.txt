@@ -1,0 +1,11 @@
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\bin\Debug\net8.0\RecuperatorioRegistroReservas.Entidades.deps.json
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\bin\Debug\net8.0\RecuperatorioRegistroReservas.Entidades.dll
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\bin\Debug\net8.0\RecuperatorioRegistroReservas.Entidades.pdb
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\obj\Debug\net8.0\RecuperatorioRegistroReservas.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\obj\Debug\net8.0\RecuperatorioRegistroReservas.Entidades.AssemblyInfoInputs.cache
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\obj\Debug\net8.0\RecuperatorioRegistroReservas.Entidades.AssemblyInfo.cs
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\obj\Debug\net8.0\RecuperatorioRegistroReservas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\obj\Debug\net8.0\RecuperatorioRegistroReservas.Entidades.dll
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\obj\Debug\net8.0\refint\RecuperatorioRegistroReservas.Entidades.dll
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\obj\Debug\net8.0\RecuperatorioRegistroReservas.Entidades.pdb
+C:\Users\axeel\source\repos\RecuperatorioRegistroReservas\RecuperatorioRegistroReservas.Entidades\obj\Debug\net8.0\ref\RecuperatorioRegistroReservas.Entidades.dll

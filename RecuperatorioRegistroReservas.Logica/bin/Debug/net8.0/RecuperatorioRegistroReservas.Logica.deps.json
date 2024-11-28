@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RecuperatorioRegistroReservas.Logica/1.0.0": {
+        "dependencies": {
+          "RecuperatorioRegistroReservas.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "RecuperatorioRegistroReservas.Logica.dll": {}
+        }
+      },
+      "RecuperatorioRegistroReservas.Entidades/1.0.0": {
+        "runtime": {
+          "RecuperatorioRegistroReservas.Entidades.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecuperatorioRegistroReservas.Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecuperatorioRegistroReservas.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
